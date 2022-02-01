@@ -15,11 +15,9 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 <li>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Estou procurando colaborar em projetos web</font></font></p>
 </li>
+
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤔</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Estou procurando ajuda com SQL e servidores remotos</font></font></p>
-</li>
-<li>
-<p dir="auto"><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✉</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Como me encontrar</font></font><strong><a href="mailto:matheus.dev.07@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font></font></a></strong></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✉</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Como me encontrar</font></font><strong><a href="mailto:matheusteodoro01@hotmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font></font></a></strong></p>
 </li>
 <li>
 
