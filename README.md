@@ -13,3 +13,4 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusteodoro01)](https://github.com/anuraghazra/github-readme-stats)
