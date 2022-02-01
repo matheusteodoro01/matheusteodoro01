@@ -3,7 +3,34 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 
 
 💼   Estou procurando colaborar em novos projetos! Se estiver com algum me chama ai! 
+
+
+<ul dir="auto">
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente estou estudando JS, TS, SCSS, ReactJS com NextJS na </font></font><a href="https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rocketseat</font></font></a></p>
+</li>
+<li>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Estou procurando colaborar em projetos web</font></font></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="thinking" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f914.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🤔</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> Estou procurando ajuda com SQL e servidores remotos</font></font></p>
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✉</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Como me encontrar</font></font><strong><a href="mailto:matheus.dev.07@gmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font></font></a></strong></p>
+</li>
+<li>
+
+</li>
+<li>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meu </font></font><a href="https://about.me/matheusteodoro01" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">currículo on-line</font></font></a></p>
+</li>
+</ul>
+
+
+
 🤝🏻 Conecte-se comigo
+
+
 <div>
   <a href="https://about.me/matheusteodoro01" target="_blank"><img src="https://img.shields.io/badge/-Sobre-blue" target="_blank"></a>
 <a href="https://instagram.com/matheusteodoro__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
