@@ -2,12 +2,14 @@
 Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, musica e empreendedorismo. Trabalha empreendendo na área de construção de softwares para WEB e consultoria em tecnologia há mais de 8 anos. Especialista múltiplas linguagens de programação e ferramentas: Docker, Node.js, Nest.js, JavaScript, TypeScript, Angular, React, Vue, MySQL, PostgreSQL, ElasticSearch, DialogFlow entre outros. Atua também na área educacional, ministrando cursos, palestras e consultorias para milhares de alunos e empresas.
 
 
-💼   Estou procurando colaborar em novos projetos! Se estiver com algum me chama ai! 
-
+<font style="vertical-align: inherit;">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Um programador focado em desenvolvimento web
+</font>
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente estou estudando JS, TS, SCSS, ReactJS com NextJS na </font></font><a href="https://app.rocketseat.com.br/me/matheus-vidigal-nyctibius" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rocketseat</font></font></a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente estou estudando JS, TS, SCSS, ReactJS com NextJS na </font></font><a href="https://app.rocketseat.com.br" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rocketseat</font></font></a></p>
 </li>
 <li>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Estou procurando colaborar em projetos web</font></font></p>
@@ -29,7 +31,6 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 
 
 🤝🏻 Conecte-se comigo
-
 
 <div>
   <a href="https://about.me/matheusteodoro01" target="_blank"><img src="https://img.shields.io/badge/-Sobre-blue" target="_blank"></a>
