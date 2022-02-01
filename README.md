@@ -13,7 +13,6 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
 <p align="right" dir="auto"><br>&nbsp;
     <code><a target="_blank" rel="noopener noreferrer" href="/NyctibiusVII/NyctibiusVII/blob/master/.github/tecSvg/android.svg"><img src="/NyctibiusVII/NyctibiusVII/raw/master/.github/tecSvg/android.svg" alt="Android" height="16" style="max-width: 100%;"></a></code>&nbsp;
     <code><a target="_blank" rel="noopener noreferrer" href="/NyctibiusVII/NyctibiusVII/blob/master/.github/tecSvg/java.svg"><img src="/NyctibiusVII/NyctibiusVII/raw/master/.github/tecSvg/java.svg" alt="Java" height="16" style="max-width: 100%;"></a></code>&nbsp;
