@@ -20,9 +20,6 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 <p dir="auto"><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✉</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Como me encontrar</font></font><strong><a href="mailto:matheusteodoro01@hotmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font></font></a></strong></p>
 </li>
 <li>
-
-</li>
-<li>
 <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meu </font></font><a href="https://about.me/matheusteodoro01" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">currículo on-line</font></font></a></p>
 </li>
 </ul>
