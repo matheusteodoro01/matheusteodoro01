@@ -10,7 +10,7 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente estou estudando JS, TS, SCSS, ReactJS com NextJS na </font></font><a href="https://app.rocketseat.com.br" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Rocketseat</font></font></a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente buscando trabalhar com JS, TS, SCSS, ReactJS/Native e NextJS</a></p>
 </li>
 <li>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Estou procurando colaborar em projetos web</font></font></p>
