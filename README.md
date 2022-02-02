@@ -20,7 +20,7 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 <p dir="auto"><g-emoji class="g-emoji" alias="envelope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">✉</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Como me encontrar </font></font><strong><a href="mailto:matheusteodoro01@hotmail.com"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font></font></a></strong></p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Meu </font></font><a href="https://about.me/matheusteodoro01" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">currículo on-line</font></font></a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📄</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Mais </font></font><a href="https://about.me/matheusteodoro01" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">sobre mim</font></font></a></p>
 </li>
 </ul>
 
@@ -29,7 +29,6 @@ Engenheiro de software e Desenvolvedor WEB Full Stack, entusiasta em economia, m
 🤝🏻 Conecte-se comigo
 
 <div>
-  <a href="https://about.me/matheusteodoro01" target="_blank"><img src="https://img.shields.io/badge/-Sobre-blue" target="_blank"></a>
 <a href="https://instagram.com/matheusteodoro__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusteodoro01@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
