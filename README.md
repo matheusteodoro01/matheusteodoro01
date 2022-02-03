@@ -1,5 +1,4 @@
-👨🏻‍💻 Sobre mim
-Desenvolvedor Web Full Stack e Analista de Infraestrutura entusiasta em economia, musica e empreendedorismo. Trabalha empreendendo na área de construção de softwares para WEB e consultoria em tecnologia há mais de 8 anos. 
+Olá sou o Matheus, Desenvolvedor Web Full Stack e Analista de Infraestrutura entusiasta em economia, musica e empreendedorismo. Trabalha empreendendo na área de construção de softwares para WEB e consultoria em tecnologia há mais de 8 anos. 
 
 Especialista múltiplas linguagens de programação e ferramentas: Docker, Node.js, Nest.js, JavaScript, TypeScript, Angular, React, Vue, MySQL, PostgreSQL, ElasticSearch, DialogFlow entre outros. Com habilidades avançadas em infraestrutura de TI cloud e on promisse em ferramentas como Windows Server, Vm Ware, Zabbix, Grafana, Veeam e Active Directoy.
 
