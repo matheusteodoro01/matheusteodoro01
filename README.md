@@ -11,7 +11,7 @@ Especialista múltiplas linguagens de programação e ferramentas: Docker, Kuber
 
 <ul dir="auto">
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente buscando trabalhar com JS, TS, SCSS, ReactJS/Native e NextJS</a></p>
+<p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente buscando trabalhar com JS, TS</a></p>
 </li>
 <li>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Estou procurando colaborar em projetos web</font></font></p>
@@ -38,5 +38,5 @@ Especialista múltiplas linguagens de programação e ferramentas: Docker, Kuber
 <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<p align="center"> <a href="https://github.com/matheusteodoro01/"><img" src="https://github-readme-stats.vercel.app/api?username=matheusteodoro01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteodoro01&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<p align="center"> <a href="https://github.com/matheusteodoro01/"><img  height="180" src="https://github-readme-stats.vercel.app/api?username=matheusteodoro01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusteodoro01&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
