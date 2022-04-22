@@ -14,7 +14,7 @@ Especialista múltiplas linguagens de programação e ferramentas: Docker, Kuber
 <p dir="auto"><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">🌱</font></font></g-emoji><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Atualmente trabalhando com JS e TS</a></p>
 </li>
 <li>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Focado em arquitetura!</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">👨🏻‍💻 Focado em arquitetura</font></font></p>
 </li>
     <li>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📣🏻‍💻 Gosto de criar estratégias de venda com programação</font></font></p>
