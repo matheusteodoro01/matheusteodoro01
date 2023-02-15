@@ -1,6 +1,6 @@
 Sou um engenheiro de software apaixonado pelo que faço, com mais de cinco anos de experiência na construção de soluções tecnológicas e consultoria em TI. Além de minha formação em engenharia de software, tenho uma forte paixão por economia, música e empreendedorismo.
 
-Possuo uma ampla gama de habilidades em diversas ferramentas e tecnologias, utilizando Node.js como linguagem principal bancos relacionais e não relacionais, arquitetura orientada a eventos e micro serviços. Já trabalhei em industrias, fintechs, market places e statups B2B e B2C utilizando metodologias ágeis como Kanban e SCRUM aplicando conceitos e princípios como TDD, padrões de arquitetura de software que valorizam regras de negócio, DDD, Design Patterns, Clean Code , Refactoring e Continuous Delivery.
+Possuo habilidades em diversas ferramentas e tecnologias, utilizando Node.js como linguagem principal bancos relacionais e não relacionais, arquitetura orientada a eventos e micro serviços. Já trabalhei em industrias, fintechs, market places e statups B2B e B2C utilizando metodologias ágeis como Kanban e SCRUM aplicando conceitos e princípios como TDD, padrões de arquitetura de software que valorizam regras de negócio, DDD, Design Patterns, Clean Code , Refactoring e Continuous Delivery.
 
 Tenho competências em infraestrutura de TI cloud (AWS) e on-promise, em ferramentas como Terraform, New Relic e Elastic Stack. Já conquistei prêmios em hackathons de tecnologia, tenho um perfil de empreendedor e sempre busco novos desafios e oportunidades de aprendizado.
 
