@@ -14,21 +14,13 @@
 - 📄 Know about my experiences [https://rxresu.me/r/Ab6zfTkO](https://rxresu.me/r/Ab6zfTkO)
 
 ### 📺 Latest YouTube Videos
-
 <!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
-- [Como Node JS funciona? Node JS é multi thread?](https://www.youtube.com/watch?v=8Pywrbkoy_Q)
-- [Como criar API com Serverless Framework, Node.js e AWS Lambda - Tutorial Prático](https://www.youtube.com/watch?v=feZac0EQJUg)
-- [API Serverless: Como criar uma sem servidor?](https://www.youtube.com/watch?v=uouzEFmtmiU)
-- [Como ler arquivo CSV com Node JS | Node JS Streams](https://www.youtube.com/watch?v=809vSec2K-M)
-- [Criando API Rest Full com Node JS e Mongo DB &lpar;2022&rpar; | CRUD com Node JS](https://www.youtube.com/watch?v=SNKvATjiH8E)
-  <!-- YOUTUBE:END -->
-  ➡️ [more videos...](https://www.youtube.com/@canalkittech)
+➡️ [more videos...](https://www.youtube.com/@canalkittech)
 
 ### 📕 Latest Blog Posts
-
 <!-- BLOG-POST-LIST:START -->
-- [Creating a High-Performance Serverless REST API with Node JS](https://medium.com/@matheus.apteodoro/creating-a-high-performance-serverless-rest-api-with-node-js-248d1ff30a3a?source=rss-265e03754e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@matheus.apteodoro)
