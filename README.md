@@ -13,9 +13,16 @@
 
 - 📄 Know about my experiences [https://rxresu.me/r/Ab6zfTkO](https://rxresu.me/r/Ab6zfTkO)
 
-### Blogs posts
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+➡️ [more videos...](https://www.youtube.com/@canalkittech)
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+➡️ [more blog posts...](https://medium.com/@matheus.apteodoro)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
