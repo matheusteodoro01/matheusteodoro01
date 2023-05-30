@@ -21,6 +21,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a High-Performance Serverless REST API with Node JS](https://medium.com/@matheus.apteodoro/creating-a-high-performance-serverless-rest-api-with-node-js-248d1ff30a3a?source=rss-265e03754e37------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@matheus.apteodoro)
