@@ -1,73 +1,28 @@
-Working with software development with over five years of experience, I have bachelor degree in software engineering,
-with MBA in software architecture. I posses skills in various tools, utilizing JavaScript/Typescript e Go Lang as main
-languages, I have experience with databases SQL and NOSQL, Event driven architecture and microservices.
+<h3 align="center">Working with software development with over five years of experience, I have bachelor degree in software engineering, with MBA in software architecture. I posses skills in various tools, utilizing JavaScript/Typescript e Go Lang as main languages, I have experience with databases SQL and NOSQL, Event driven architecture and microservices. I have expertise on DevOps working mainly with AWS in tools as Terraform, New Relic, Datadog e Elastic Stack. I have acted in fintech, market places and startups B2B and B2C using agile methods such as Kanban e SCRUM applying concepts and principles like TDD, designer patterns that give value in business rules DDD, Design Patterns, Clean Code , Refactoring e Continuous Delivery.</h3>
 
-I have expertise on DevOps working mainly with AWS in tools as Terraform, New Relic, Datadog e Elastic Stack.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusteodoro01&label=Profile%20views&color=0e75b6&style=flat" alt="matheusteodoro01" /> </p>
 
-I have acted in fintech, market places and startups B2B and B2C using agile methods such as Kanban e SCRUM applying
-concepts and principles like TDD, designer patterns that give value in business rules DDD, Design Patterns, Clean Code ,
-Refactoring e Continuous Delivery.
+- 🔭 I’m currently working on [Farmacias App](https://www.farmaciasapp.com.br)
 
+- 🌱Visit my channel **https://www.youtube.com/@canalkittech**
 
-<ul dir="auto">
-    <li>
-        <p dir="auto"><g-emoji class="g-emoji" alias="seedling"
-                fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">
-                <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">🌱</font>
-                </font>
-            </g-emoji>
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">Working with Typescript and Go Lang</a>
-        </p>
-    </li>
+- 📝 I regularly write articles on [https://medium.com/@matheus.apteodoro](https://medium.com/@matheus.apteodoro)
 
-    <li>
-        <p dir="auto"><g-emoji class="g-emoji" alias="envelope"
-                fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png">
-                <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">✉</font>
-                </font>
-            </g-emoji>
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;">Contact</font>
-            </font><strong><a href="mailto:matheusteodoro01@hotmail.com">
-                    <font style="vertical-align: inherit;">
-                        <font style="vertical-align: inherit;">matheusteodoro01@hotmail.com</font>
-                    </font>
-                </a></strong>
-        </p>
-    </li>
-    <li>
-        <p dir="auto"><g-emoji class="g-emoji" alias="page_facing_up"
-                fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">
-                <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">📄 </font>
-                </font>
-            </g-emoji>
-            <font style="vertical-align: inherit;">
-                <font style="vertical-align: inherit;"></font>
-            </font><a href="https://www.youtube.com/channel/UCqxAvYgceFxTp2tiZyWMzmA?app=desktop" rel="nofollow">
-                <font style="vertical-align: inherit;">
-                    <font style="vertical-align: inherit;">Visit my channel</font>
-                </font>
-            </a>
-        </p>
-    </li>
-</ul>
+- 📫 How to reach me **matheus.apteodoro@gmail.com**
 
+- 📄 Know about my experiences [https://rxresu.me/r/Ab6zfTkO](https://rxresu.me/r/Ab6zfTkO)
 
-🤝🏻 Conect with me
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-<div>
-    <a href="https://instagram.com/matheusteodoro__" target="_blank"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
-    <a href="mailto:matheusteodoro01@hotmail.com"><img
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            target="_blank"></a>
-    <a href="https://www.linkedin.com/in/matheus-teodoro-7bb92818a/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/matheus-teodoro-7bb92818a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-teodoro-7bb92818a" height="30" width="40" /></a>
+<a href="https://instagram.com/matheusteodoro__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheusteodoro__" height="30" width="40" /></a>
+<a href="https://medium.com/@matheus.apteodoro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matheus.apteodoro" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kittech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kittech" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
