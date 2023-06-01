@@ -15,11 +15,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como deixar o Node JS mais rápido? Thread pool size](https://www.youtube.com/watch?v=kMzgd9VHH1I)
 - [Como Node JS funciona? Node JS é multi thread?](https://www.youtube.com/watch?v=8Pywrbkoy_Q)
 - [Como criar API com Serverless Framework, Node.js e AWS Lambda - Tutorial Prático](https://www.youtube.com/watch?v=feZac0EQJUg)
 - [API Serverless: Como criar uma sem servidor?](https://www.youtube.com/watch?v=uouzEFmtmiU)
 - [Como ler arquivo CSV com Node JS |  Node JS Streams](https://www.youtube.com/watch?v=809vSec2K-M)
-- [Criando API Rest Full com Node JS e Mongo DB &lpar;2022&rpar; | CRUD com Node JS](https://www.youtube.com/watch?v=SNKvATjiH8E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
