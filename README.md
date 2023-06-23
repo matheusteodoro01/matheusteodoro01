@@ -15,11 +15,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Alta disponibilidade no Node JS  com Cluster module](https://www.youtube.com/watch?v=3bKF8TirsYg)
 - [Como escalar uma API com Node JS? Child Process na prática!](https://www.youtube.com/watch?v=qwbkBBeh5rM)
 - [Como deixar o Node JS mais rápido? Thread pool size](https://www.youtube.com/watch?v=kMzgd9VHH1I)
 - [Como Node JS funciona? Node JS é multi thread?](https://www.youtube.com/watch?v=8Pywrbkoy_Q)
 - [Como criar API com Serverless Framework, Node.js e AWS Lambda - Tutorial Prático](https://www.youtube.com/watch?v=feZac0EQJUg)
-- [API Serverless: Como criar uma sem servidor?](https://www.youtube.com/watch?v=uouzEFmtmiU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
