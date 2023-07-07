@@ -1,5 +1,7 @@
 <h1 align="center">Matheus Teodoro</h1>
-<p align="center">Working with software development with over five years of experience, I have bachelor degree in software engineering, with MBA in software architecture. I posses skills in various tools, utilizing JavaScript/Typescript e Go Lang as main languages, I have experience with databases SQL and NOSQL, Event driven architecture and microservices. I have expertise on DevOps working mainly with AWS in tools as Terraform, New Relic, Datadog e Elastic Stack. I have acted in fintech, market places and startups B2B and B2C using agile methods such as Kanban e SCRUM applying concepts and principles like TDD, designer patterns that give value in business rules DDD, Design Patterns, Clean Code , Refactoring e Continuous Delivery.</p>
+<p align="center">Working in software development for over five years of experience, I have bachelor degree in software engineering, with MBA in software architecture. I posses skills in various tools, utilizing JavaScript/Typescript an Go Lang as main programming languages, I have experience with databases SQL and NOSQL, Event driven architecture and microservices. 
+
+I have expertise on DevOps working mainly with AWS in tools as Terraform, New Relic, Datadog and Elastic Stack. I have acted in fintechs,  market places and startups B2B and B2C using agile methods such as Kanban and SCRUM applying concepts and principles like TDD, designer patterns that value business rules DDD, Design Patterns, Clean Code , Refactoring e Continuous Delivery.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusteodoro01&label=Profile%20views&color=0e75b6&style=flat" alt="matheusteodoro01" /> </p>
 
