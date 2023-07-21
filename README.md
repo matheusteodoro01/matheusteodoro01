@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como processar grandes volumes de dados com Node Js?](https://www.youtube.com/watch?v=YldWGctWNqU)
 - [Alta disponibilidade no Node JS  com Cluster module](https://www.youtube.com/watch?v=3bKF8TirsYg)
 - [Como escalar uma API com Node JS? Child Process na prática!](https://www.youtube.com/watch?v=qwbkBBeh5rM)
 - [Como deixar o Node JS mais rápido? Thread pool size](https://www.youtube.com/watch?v=kMzgd9VHH1I)
 - [Como Node JS funciona? Node JS é multi thread?](https://www.youtube.com/watch?v=8Pywrbkoy_Q)
-- [Como criar API com Serverless Framework, Node.js e AWS Lambda - Tutorial Prático](https://www.youtube.com/watch?v=feZac0EQJUg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
