@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Como o YouTube conta as views dos seus vídeos?](https://www.youtube.com/watch?v=jg2KF1-M_2M)
 - [Criando uma API na AWS em 1 minuto! 🔥](https://www.youtube.com/watch?v=GolGrmRlkPY)
 - [Adeus Nodemon 💔](https://www.youtube.com/watch?v=tSEu3BZdu_4)
 - [Como processar grandes volumes de dados com Node Js?](https://www.youtube.com/watch?v=YldWGctWNqU)
 - [Alta disponibilidade no Node JS  com Cluster module](https://www.youtube.com/watch?v=3bKF8TirsYg)
-- [Como escalar uma API com Node JS? Child Process na prática!](https://www.youtube.com/watch?v=qwbkBBeh5rM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
