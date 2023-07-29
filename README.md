@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [👎Evite fazer isso no Node Js🚫](https://www.youtube.com/watch?v=XHUo1Emw5Ow)
 - [❌ Chega de sofrer fazendo mocks! ❌](https://www.youtube.com/watch?v=ef0DrzcuVEk)
 - [🎉 Adeus, Axios! Olá, Fetch! 🚀](https://www.youtube.com/watch?v=Xn4Bm-jf6eA)
 - [Como o YouTube conta as views dos seus vídeos?](https://www.youtube.com/watch?v=jg2KF1-M_2M)
 - [Criando uma API na AWS em 1 minuto! 🔥](https://www.youtube.com/watch?v=GolGrmRlkPY)
-- [Adeus Nodemon 💔](https://www.youtube.com/watch?v=tSEu3BZdu_4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
