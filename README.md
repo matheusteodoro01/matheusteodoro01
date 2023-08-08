@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [🔥 Esse problema é um clássico em entrevistas de backend!😬](https://www.youtube.com/watch?v=pOTyYvVxIAg)
 - [Bora criar um swagger em 1 minuto? 🔥](https://www.youtube.com/watch?v=6trIYDKsiPQ)
 - [🥶 Chega de ficar sem responder nas entrevistas oque é o event loop do Node Js! 🔄](https://www.youtube.com/watch?v=HV5C5WipwjI)
 - [👎Evite fazer isso no Node Js🚫](https://www.youtube.com/watch?v=XHUo1Emw5Ow)
 - [❌ Chega de sofrer fazendo mocks! ❌](https://www.youtube.com/watch?v=ef0DrzcuVEk)
-- [🎉 Adeus, Axios! Olá, Fetch! 🚀](https://www.youtube.com/watch?v=Xn4Bm-jf6eA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
