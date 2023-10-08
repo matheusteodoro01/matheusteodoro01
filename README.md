@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#microservicos #arquitetura #consistência #disponibilidade #teoremacap #mateus #dicas #perfil](https://www.youtube.com/watch?v=GYXlQM3CjlU)
 - [#arquiteturadanuvem #aws #bemarquitetado #modelarsoluções #desenhar #desenvolvedor #arquitetura](https://www.youtube.com/watch?v=tUBJkcD5TCg)
 - [Como saber se sua API é escalavel? Teste de stress com K6 e Grafana](https://www.youtube.com/watch?v=8I9csmp82qI)
 - [🪦 Post Mortem: A forma mais fácil de aprender, errando! 😬 #coding](https://www.youtube.com/watch?v=F_O8CmJOwss)
 - [🔥 Esse problema é um clássico em entrevistas de backend!😬](https://www.youtube.com/watch?v=pOTyYvVxIAg)
-- [Bora criar um swagger em 1 minuto? 🔥](https://www.youtube.com/watch?v=6trIYDKsiPQ)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
