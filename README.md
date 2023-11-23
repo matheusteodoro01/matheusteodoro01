@@ -28,6 +28,7 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Is Node JS multithread?](https://medium.com/@matheus.apteodoro/is-node-js-multithread-42f41347b2df?source=rss-265e03754e37------2)
 - [Creating a High-Performance Serverless REST API with Node JS](https://medium.com/@matheus.apteodoro/creating-a-high-performance-serverless-rest-api-with-node-js-248d1ff30a3a?source=rss-265e03754e37------2)
 <!-- BLOG-POST-LIST:END -->
 
