@@ -17,11 +17,11 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Requests do jeito certo usando Circuit Breaker no Node.js](https://www.youtube.com/watch?v=vZ5ngiHQg8I)
 - [Já ouviu falar em Arquitetura de Transição? 😰](https://www.youtube.com/watch?v=okqauufyLWc)
 - [Design de Software ou Arquitetura de Software? 🤔](https://www.youtube.com/watch?v=chh35Vm8iM8)
 - [Já conhece o termo Lock-In? 🔐](https://www.youtube.com/watch?v=T4hWDn3FlRE)
 - [Como não rodar em uma entrevista de System Design/ Quadro Branco](https://www.youtube.com/watch?v=XaAplNye180)
-- [Como saber se preciso testar meu software?](https://www.youtube.com/watch?v=gmG_58a6lUY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/@canalkittech)
