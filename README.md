@@ -6,7 +6,7 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusteodoro01&label=Profile%20views&color=0e75b6&style=flat" alt="matheusteodoro01" /> </p>
 
 
-- 🌱Visit my channel **https://www.youtube.com/@canalkittech**
+- 🌱Visit my channel **https://www.youtube.com/@matheusteodorodev**
 
 - 📝 I regularly write articles on [https://medium.com/@matheus.apteodoro](https://medium.com/@matheus.apteodoro)
 
