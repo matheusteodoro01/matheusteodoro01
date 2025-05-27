@@ -12,8 +12,6 @@ I have expertise on DevOps working mainly with AWS in tools as Terraform, New Re
 
 - 📫 How to reach me **matheus.apteodoro@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/r/Ab6zfTkO](https://rxresu.me/r/Ab6zfTkO)
-
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Requests com Axios do jeito certo usando Circuit Breaker no Node.js](https://www.youtube.com/watch?v=vZ5ngiHQg8I)
